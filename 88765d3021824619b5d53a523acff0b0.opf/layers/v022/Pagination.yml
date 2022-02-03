@@ -202,13 +202,13 @@ annotations:
     reference: ''
     span:
       start: 38320
-      end: 40319
+      end: 40355
   c908f515990d4997a93fa2a2a93a8dd6:
     imgnum: 1235
     reference: ''
     span:
-      start: 40321
-      end: 40926
+      start: 40357
+      end: 40962
   bd1a70f867674e6692bb52307a8c5b43:
     imgnum: 1236
     reference: ''
