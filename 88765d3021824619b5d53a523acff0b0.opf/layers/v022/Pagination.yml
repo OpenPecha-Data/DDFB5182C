@@ -189,26 +189,26 @@ annotations:
     reference: ''
     span:
       start: 35367
-      end: 36501
+      end: 36507
     note_ref: 78c681265dba492798cd2149616a02f9
   e304518d54524c059434aab6dca1b756:
     imgnum: 1233
     reference: ''
     span:
-      start: 36503
-      end: 38316
+      start: 36509
+      end: 38322
   78c681265dba492798cd2149616a02f9:
     imgnum: 1234
     reference: ''
     span:
-      start: 38318
-      end: 40330
+      start: 38324
+      end: 40336
   c908f515990d4997a93fa2a2a93a8dd6:
     imgnum: 1235
     reference: ''
     span:
-      start: 40332
-      end: 40937
+      start: 40338
+      end: 40943
   bd1a70f867674e6692bb52307a8c5b43:
     imgnum: 1236
     reference: ''
